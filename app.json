@@ -1,0 +1,12 @@
+{
+  "name": "calcIMC",
+  "displayName": "calcIMC",
+  "expo": {
+    "name": "calcIMC",
+    "slug": "calcIMC",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
